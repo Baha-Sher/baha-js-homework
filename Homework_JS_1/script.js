@@ -396,3 +396,6 @@
 // console.log("Артиклей 'аn' в тексте " +artAnTotal);
 // console.log("Артиклей 'The' в тексте " +artTheTotal);
 // console.log("Всего артиклей в тексте " + [+artATotal + +artAnTotal + +artTheTotal]);
+
+
+//console.log ("Спасибо за внимание!")
